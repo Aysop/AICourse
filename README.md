@@ -3,7 +3,7 @@ Course Certificate:
 ![course_certificate](https://user-images.githubusercontent.com/47838762/100560342-85b0e780-3283-11eb-8691-1b56c1d25ef5.png)
 
 
-Course Notes:
+# Course Notes:
 [AI Notes.pdf](https://github.com/Yewklid/AICourse/files/5613295/AI.Notes.pdf)
 ![Page 0(1)](https://user-images.githubusercontent.com/47838762/100559812-e2ab9e00-3281-11eb-935c-d969385db4fe.jpg)
 ![Page 1(1)](https://user-images.githubusercontent.com/47838762/100559814-e3443480-3281-11eb-82b5-1d18e10f57de.jpg)
@@ -14,7 +14,7 @@ Course Notes:
 ![Page 6](https://user-images.githubusercontent.com/47838762/100559824-e7705200-3281-11eb-844e-7765c56493a4.jpg)
 ![Page 7](https://user-images.githubusercontent.com/47838762/100559828-e808e880-3281-11eb-8e93-62887d245863.jpg)
 
-<p>Course Plan:</p>
+<p># Course Plan:</p>
 <p>Week 1: </p>
   <p>Plan: Begin course overview, gather references, and begin Intro to AI</p>
    <p> Update:Completed the "Intro to AI" module and began taking notes for the course</p>
