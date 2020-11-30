@@ -6,14 +6,6 @@
 
 # Course Notes:
 [AI Notes.pdf](https://github.com/Yewklid/AICourse/files/5613295/AI.Notes.pdf)
-![Page 0(1)](https://user-images.githubusercontent.com/47838762/100559812-e2ab9e00-3281-11eb-935c-d969385db4fe.jpg)
-![Page 1(1)](https://user-images.githubusercontent.com/47838762/100559814-e3443480-3281-11eb-82b5-1d18e10f57de.jpg)
-![Page 2(1)](https://user-images.githubusercontent.com/47838762/100559816-e3dccb00-3281-11eb-8a25-d6723002cff9.jpg)
-![Page 3](https://user-images.githubusercontent.com/47838762/100559819-e50df800-3281-11eb-9b03-5a1723428004.jpg)
-![Page 4](https://user-images.githubusercontent.com/47838762/100559820-e63f2500-3281-11eb-9811-ae75da1e552e.jpg)
-![Page 5](https://user-images.githubusercontent.com/47838762/100559822-e6d7bb80-3281-11eb-91b9-9ebf1581bb19.jpg)
-![Page 6](https://user-images.githubusercontent.com/47838762/100559824-e7705200-3281-11eb-844e-7765c56493a4.jpg)
-![Page 7](https://user-images.githubusercontent.com/47838762/100559828-e808e880-3281-11eb-8e93-62887d245863.jpg)
 
 # Course Plan:
 <p>Week 1: </p>
