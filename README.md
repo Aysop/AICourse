@@ -1,5 +1,7 @@
 # AICourse
 
+Artificial Intelligence with Machine Learning in Java, hosted by Oracle, coursework. Included is the certificate of completion, my course notes, my course plan, and the source code for the Yes/No game created in the course. The code is for review only, since it the only code included has been written by me and omits any libraries- So, a video of the game is has been included for demonstration purposes in the repository files.  
+
 # Course Certificate:
 ![course_certificate](https://user-images.githubusercontent.com/47838762/100560342-85b0e780-3283-11eb-8691-1b56c1d25ef5.png)
 
