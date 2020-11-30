@@ -1,5 +1,6 @@
 # AICourse
-Course Certificate:
+
+# Course Certificate:
 ![course_certificate](https://user-images.githubusercontent.com/47838762/100560342-85b0e780-3283-11eb-8691-1b56c1d25ef5.png)
 
 
@@ -14,7 +15,7 @@ Course Certificate:
 ![Page 6](https://user-images.githubusercontent.com/47838762/100559824-e7705200-3281-11eb-844e-7765c56493a4.jpg)
 ![Page 7](https://user-images.githubusercontent.com/47838762/100559828-e808e880-3281-11eb-8e93-62887d245863.jpg)
 
-<p># Course Plan:</p>
+# Course Plan:
 <p>Week 1: </p>
   <p>Plan: Begin course overview, gather references, and begin Intro to AI</p>
    <p> Update:Completed the "Intro to AI" module and began taking notes for the course</p>
